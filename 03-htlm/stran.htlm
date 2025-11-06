@@ -3,99 +3,136 @@
   <head>
     <meta charset="UTF-8">
     <title>ISO 3103</title>
-  </head>
-  <body>
-  <h1>ISO 3103</h1>
+  
+    <!--Mathjax-->
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>
+ 
+</head>
 
-The content of this page has been slightly adapted from the Wikipedia page on ISO 3103 https://en.wikipedia.org/wiki/ISO_3103
+<!--Enačba-->
+    \[x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}\]
+  
+    <body>
+    <h1>ISO 3103</h1>
 
-ISO 3103 is a standard published by the International Organization for Standardization (commonly referred to as ISO), specifying a standardized method for brewing tea, possibly sampled by the standardized methods described in ISO 1839. It was originally laid down in 1980 as BS 6008:1980 by the British Standards Institution, and a revision was published in December, 2019 as ISO/NP 3103. It was produced by ISO Technical Committee 34 (Food products), Sub-Committee 8 (Tea).
+    <p>
+      The content of this page has been slightly adapted from the Wikipedia page on
+      <a href="https://en.wikipedia.org/wiki/ISO_3103">ISO 3103</a>.
+    </p>
 
-The abstract states the following:
+    <p>
+      <strong>ISO 3103</strong> is a standard published by the International Organization for Standardization (ISO), specifying a standardized method for <em>brewing tea</em>, possibly sampled by the standardized methods described in ISO 1839. It was originally laid down in 1980 as BS 6008:1980 by the British Standards Institution, and a revision was published in December 2019 as ISO/NP 3103. It was produced by ISO Technical Committee 34 (Food products), Sub-Committee 8 (Tea).
+    </p>
 
-The method consists in extracting of soluble substances in dried tea leaf, contained in a porcelain or earthenware pot, by means of freshly boiling water, pouring of the liquor into a white porcelain or earthenware bowl, examination of the organoleptic properties of the infused leaf, and of the liquor with or without milk, or both.
+    <p><strong>The abstract states the following:</strong></p>
 
-This standard is not meant to define the proper method for brewing tea intended for general consumption, but rather to document a tea brewing procedure where meaningful sensory comparisons can be made. An example of such a test would be a taste-test to establish which blend of teas to choose for a particular brand or basic label in order to maintain a consistent tasting brewed drink from harvest to harvest. Some would contend that oversteeping the tea is not a valid way to make meaningful sensory comparisons.
+    <blockquote>
+      The method consists in extracting soluble substances in dried tea leaf, contained in a porcelain or earthenware pot, by means of freshly boiling water, pouring of the liquor into a white porcelain or earthenware bowl, examination of the organoleptic properties of the infused leaf, and of the liquor with or without milk, or both.
+    </blockquote>
 
-The work was the winner of the parodic Ig Nobel Prize for Literature in 1999.
+    <p>
+      This standard is not meant to define the proper method for brewing tea intended for general consumption, but rather to document a tea brewing procedure where meaningful sensory comparisons can be made. An example of such a test would be a taste-test to establish which blend of teas to choose for a particular brand or basic label in order to maintain a consistent tasting brewed drink from harvest to harvest.
+    </p>
 
-<h3>Contents</h3>
+    <p>
+      The work was the winner of the parodic Ig Nobel Prize for Literature in 1999.
+    </p>
 
-<ol>
-  <li><a href="#details">Details</a></li>
-  <li><a href="#pot-and-bowl">Pot and bowl</a></li>
-  <li><a href="#criticism">Criticism</a></li>
-  <li><a href="#competing-standards">Competing standards</a></li>
-</ol>
+    <h3>Contents</h3>
+    <ol>
+      <li><a href="#details">Details</a></li>
+      <li><a href="#pot-and-bowl">Pot and bowl</a></li>
+      <li><a href="#criticism">Criticism</a></li>
+      <li><a href="#competing-standards">Competing standards</a></li>
+    </ol>
 
-<h2 id="details">Details</h2>
-<h2 id="details">Pot and bowl</h2>
-<h2 id="details">Criticism</h2>
+    <!-- Details -->
 
+    <h2 id="details">Details</h2>
 
-<h2>Details</h2>
+    <p>
+      <img src="tea-bowl.jpg" alt="A white porcelain tea bowl exhibit in the Montreal Museum of Fine Arts">
+    </p>
 
-<img src="tea-bowl.jpg"
+    <p>To maintain consistent results, the following are recommendations given by the standard:</p>
 
-A white porcelain tea bowl exhibit in the Montreal Museum of Fine Arts
+    <ul>
+      <li>The pot should be white porcelain or glazed earthenware and have a partly serrated edge. It should have a lid that fits loosely inside the pot.</li>
+      <li>The pot can be large or small, with a prescribed volume and weight:</li>
+    </ul>
 
-To maintain consistent results, the following are recommendations given by the standard:
+    <table border="1">
+      <tr>
+        <th>Pot</th>
+        <th>Volume</th>
+        <th>Weight</th>
+      </tr>
+      <tr>
+        <td>Large</td>
+        <td>310 ml (±8 ml)</td>
+        <td>200 g (±10 g)</td>
+      </tr>
+      <tr>
+        <td>Small</td>
+        <td>150 ml (±4 ml)</td>
+        <td>118 g (±10 g)</td>
+      </tr>
+    </table>
 
-The pot should be white porcelain or glazed earthenware and have a partly serrated edge. It should have a lid that fits loosely inside the pot.
+    <ul>
+      <li>2 grams of tea per 100 ml boiling water is placed into the pot.</li>
+      <li>Freshly boiling water is poured into the pot to within 4–6 mm of the brim. Allow 20 seconds for cooling.</li>
+      <li>The water should be similar to the drinking water where the tea will be consumed.</li>
+      <li>Brewing time is six minutes.</li>
+      <li>The brewed tea is then poured into a white porcelain or glazed earthenware bowl.</li>
+    </ul>
 
-The pot can be large or small, with a prescribed volume and weight.
-Pot  Volume   Weight
-large   310 ml (±8 ml)    200 g (±10 g)
-small   350 ml (±4 ml)    118 g (±10 g)
+    <table border="1">
+      <tr>
+        <th>Bowl</th>
+        <th>Capacity</th>
+        <th>Weight</th>
+      </tr>
+      <tr>
+        <td>Large</td>
+        <td>380 ml</td>
+        <td>200 g (±20 g)</td>
+      </tr>
+      <tr>
+        <td>Small</td>
+        <td>200 ml</td>
+        <td>105 g (±20 g)</td>
+      </tr>
+    </table>
 
-2 grams of tea (measured to ±2% accuracy) per 100 ml boiling water is placed into the pot.
+    <p>
+      If the test involves milk, it is added to the bowl before pouring the infused tea into it, unless that is contrary to the organisation's normal practice.  
+      If milk is added after the pouring of tea, the standard notes that best results are obtained when the liquid is between 65–80 °C.  
+      5 ml of milk for the large bowl, or 2.5 ml for the small bowl, is used.
+    </p>
 
-Freshly boiling water is poured into the pot to within 4-6 mm of the brim. Allow 20 seconds for water to cool.
+    <!-- To je Pot and Bowl -->
 
-The water should be similar to the drinking water where the tea will be consumed.
+    <h2 id="pot-and-bowl">Pot and bowl</h2>
 
-Brewing time is six minutes.
+    <p>
+      An annex of the standard describes two alternative pots (310 ml and 150 ml) and corresponding bowls (380 ml and 200 ml) "which are in widespread use" for tea tasting, including engineering drawings of their cross sections. The type of pot described is also known as a taster's mug.
+    </p>
 
-The brewed tea is then poured into a white porcelain or glazed earthenware bowl.
+    <!-- To je CRitisism -->
 
-The bowl can be large or small, with a prescribed capacity and weight.
-<table>
-  <tr>
-    <th></th>
-    <th>Bowl</th>
-    <th>Capacity</th>
-  </tr>
-  <tr>
-    <th></th>
-    <td>...</td>
-    <td>...</td>
-  </tr>
-</table>
+    <h2 id="criticism">Criticism</h2>
 
-    
-Bowl  Capacity   Weight
-large   380 ml  200 g (±20 g)
-small   200 ml  105 g (±20 g)
+    <p>
+      The protocol has been criticized for omitting any mention of prewarming the pot. Ireland was the only country to object, and objected on technical grounds.
+    </p>
 
-If the test involves milk, then it is added to the bowl before pouring the infused tea into it, unless that is contrary to the organisation's normal practice.
+   <!-- To je competing standarts -->
 
-If milk is added after the pouring of tea, the standard notes that best results are obtained when the liquid is between 65-80 °C.
+    <h2 id="competing-standards">Competing standards</h2>
 
-5 ml of milk for the large bowl, or 2.5 ml for the small bowl, is used.
-
-
-<h2>Pot and bowl</h2>
-
-An annex of the standard describes two alternative pots (310 ml and 150 ml) and corresponding bowls (380 ml and 200 ml) "which are in widespread use" for tea tasting, including engineering drawings of their cross sections. The type of pot described is also known as a taster's mug.
-
-
-<h2>Criticism</h2>
-
-The protocol has been criticized for omitting any mention of prewarming the pot. Ireland was the only country to object, and objected on technical grounds.
-
-
-<h2>Competing standards</h2>
-
-In 2003, the Royal Society of Chemistry published a press release entitled "How to make a Perfect Cup of Tea".
+    <p>
+      In 2003, the Royal Society of Chemistry published a press release entitled "How to make a Perfect Cup of Tea".
+    </p>
   </body>
 </html>
